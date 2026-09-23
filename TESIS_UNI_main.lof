@@ -1,0 +1,14 @@
+\babel@toc {spanish}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {spanish}{}\relax 
+\addvspace {0\p@ }
+\addvspace {0\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Evolución de la adopción de herramientas de generación de código asistida por IA entre desarrolladores profesionales (2022--2024). Elaboración propia a partir de Stack Overflow Developer Survey (2024).}}{30}{figure.caption.14}%
+\addvspace {0\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Pesos ponderados $w_i$ de los diez criterios de evaluación obtenidos mediante AHP. Los dos criterios asociados a la IA generativa se señalan con su dimensión (téc./reg.)}}{39}{figure.caption.15}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Distribución de los diez criterios en las dos dimensiones del modelo: técnica y regulatoria}}{39}{figure.caption.16}%
+\addvspace {0\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Proceso de aplicación metodológica en el caso de estudio (modelo técnico-regulatorio)}}{44}{figure.caption.19}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Puntuaciones ponderadas globales $S_f$ de los tres frameworks en el caso de estudio (modelo técnico-regulatorio)}}{46}{figure.caption.21}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Comparación de frameworks por dimensión: técnica (60\% del peso) y regulatoria (40\%). Promedios ponderados calculados a partir de la Tabla \ref {tab:4.1}.}}{47}{figure.caption.22}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Brecha de puntuación entre Angular y React en los seis escenarios. Valores positivos indican preferencia por Angular. S5 (límite hipotético que ignora seguridad y cumplimiento) es el único escenario en que React resulta superior ($\mitDelta S = -0.40$).}}{48}{figure.caption.24}%

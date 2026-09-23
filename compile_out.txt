@@ -1,0 +1,1854 @@
+Rc files read (in order):
+  NONE
+Latexmk: This is Latexmk, John Collins, 9 March 2026. Version 4.88.
+Latexmk: applying rule 'xelatex'...
+Rule 'xelatex':  Reasons for rerun
+Changed files or newly in use/created:
+  2_CAPITULO1/capitulo1.tex
+Category 'changed_user':
+  2_CAPITULO1/capitulo1.tex
+
+------------
+Run number 1 of rule 'xelatex'
+------------
+------------
+Running 'xelatex -no-pdf -interaction=nonstopmode -recorder  "main.tex"'
+------------
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(TesisUNI.cls
+
+LaTeX Warning: You have requested document class `TesisUNI',
+               but the document class provides `book'.
+
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+)) (0_0_PREAMBULO/preambulo.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\bab
+el-english.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\bab
+el-spanish.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english
+.ldf)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish
+.ldf))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/layouts\layouts.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-x
+etex.def)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xet
+ex.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg
+)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.de
+f)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage
+.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l
+3keys2e.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unicode-
+math.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unicode-
+math-xetex.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unicode-
+math-table.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.st
+y (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty)
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
+z.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
+y
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+yslibraryfiltered.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-xetex.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-dvipdfmx.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def))))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leshapes.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leplot.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-0-65.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-1-18.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.
+sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
+r.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz\tikz.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplothandlers.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+lematrix.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarycalc.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarypositioning.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.geometric.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.geometric.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.symbols.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.symbols.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.misc.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.misc.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryarrows.meta.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+ledecorations.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty)
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+))
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.s
+ty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-n
+ometadata.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty))
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.r
+evision.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.c
+ode.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+re.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplo
+tssysgeneric.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfpl
+otslibrary.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcomp
+atib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcomp
+atib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructure.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructureext.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsarray.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsmatrix.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\p
+gfplotstableshared.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsdeque.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.data.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.verb.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfli
+brarypgfplots.surfshading.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
+rarypgfplots.surfshading.pgfsys-xetex.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
+rarypgfplots.surfshading.pgfsys-dvipdfmx.def))))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolormap.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolor.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsst
+ackedplots.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotspl
+othandlers.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplothandler.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplotimage.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.s
+caling.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+ordprocessing.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.e
+rrorbars.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.m
+arkers.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsti
+cks.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.p
+aths.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzl
+ibrarypgfplots.contourlua.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryplotmarks.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplotmarks.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\pgf-pie.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\tikzlibrarypi
+e.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)))) (main.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/apacite\spanish.apc)
+
+Package layouts Warning: Layout scale set to 0.5 on input line 11.
+
+(main.out) (main.out)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+)
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(1_0_CARATULA/caratula.tex [1]) (1_4_RESUMEN/resumen.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[1]) (1_8_INDICE_PROPUESTO/indice_propuesto.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--24
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+) (2_CAPITULO1/capitulo1.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[3]
+Capítulo I.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[4]
+Overfull \hbox (1.24675pt too wide) in paragraph at lines 84--91
+[]\TU/Arial(0)/b/n/10.95 Requisitos regulatorios estrictos: \TU/Arial(0)/m/n/10
+.95 el cumplimiento de normativas como PCI-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/Arial(0)/m/n/10.95 Versiones Mayores
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/Arial(0)/m/n/10.95 Actualizaciones de
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[6]
+Overfull \hbox (4.14055pt too wide) in paragraph at lines 153--155
+[]\TU/Arial(0)/b/n/10.95 Desconexión histórica: \TU/Arial(0)/m/n/10.95 78$ $% n
+o incorporó sistemáticamente lecciones apren-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[7]
+Overfull \hbox (10.65971pt too wide) in paragraph at lines 221--225
+[]\TU/Arial(0)/b/n/10.95 Costos directos: \TU/Arial(0)/m/n/10.95 según Boston C
+onsulting Group (2023), las decisiones subóp-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[12]
+Overfull \hbox (5.78023pt too wide) in paragraph at lines 483--490
+[]\TU/Arial(0)/b/n/10.95 Enfoque de investigación. \TU/Arial(0)/m/n/10.95 La in
+vestigación requiere un enfoque mixto (cuantitativo-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[15]
+Overfull \hbox (246.36469pt too wide) in alignment at lines 576--581
+ [] [] [] [] [] [] 
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 581--586
+ [] [] [] [] [] [] 
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 586--589
+ [] [] [] [] [] [] 
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 589--591
+ [] [] [] [] [] [] 
+
+Underfull \hbox (badness 3219) in paragraph at lines 597--600
+[]|\TU/Arial(0)/m/n/9 OG: Desarrollar y validar
+
+Underfull \hbox (badness 4582) in paragraph at lines 597--600
+\TU/Arial(0)/m/n/9 criterios técnicos y regu-
+
+Underfull \hbox (badness 3199) in paragraph at lines 597--600
+\TU/Arial(0)/m/n/9 latorios para la selección
+
+Underfull \hbox (badness 2005) in paragraph at lines 601--607
+\TU/Arial(0)/m/n/9 trados predominantemente
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--610
+[]|\TU/Arial(0)/m/n/9 VI: Metodología técnico-
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--613
+[]|\TU/Arial(0)/m/n/9 Alineación con requisitos
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--613
+\TU/Arial(0)/m/n/9 Robustez de la decisión
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+[]|\TU/Arial(0)/m/n/9 HE1: La identificación y
+
+Underfull \hbox (badness 2762) in paragraph at lines 628--630
+[]|\TU/Arial(0)/m/n/9 VI: Aplicación de criterios
+
+Underfull \hbox (badness 1297) in paragraph at lines 631--633
+[]|\TU/Arial(0)/m/n/9 Grado de alineación entre
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--636
+[]|\TU/Arial(0)/m/n/9 Matriz de trazabilidad
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--639
+[]|\TU/Arial(0)/m/n/9 PE2: ¿Qué instrumentos
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--639
+\TU/Arial(0)/m/n/9 metodológicos permiten
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--639
+\TU/Arial(0)/m/n/9 cuantificar objetivamente
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 trumentos metodológicos
+
+Underfull \hbox (badness 6032) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 especializados incrementa
+
+Underfull \hbox (badness 2600) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 significativamente la obje-
+
+Underfull \hbox (badness 5302) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 tividad, reproducibilidad y
+
+Underfull \hbox (badness 1264) in paragraph at lines 649--651
+[]|\TU/Arial(0)/m/n/9 Consistencia entre evalua-
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--664
+[]|\TU/Arial(0)/m/n/9 HE3: La implementación
+
+Underfull \hbox (badness 2799) in paragraph at lines 661--664
+\TU/Arial(0)/m/n/9 de un proceso decisional
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--664
+\TU/Arial(0)/m/n/9 estructurado técnico-
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--664
+\TU/Arial(0)/m/n/9 frente a aproximaciones
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--667
+[]|\TU/Arial(0)/m/n/9 VI: Proceso decisional
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--670
+\TU/Arial(0)/m/n/9 Participación cross-
+
+Underfull \hbox (badness 3209) in paragraph at lines 677--679
+[]|\TU/Arial(0)/m/n/9 OE4: Implementar y vali-
+
+Underfull \hbox (badness 1117) in paragraph at lines 680--682
+\TU/Arial(0)/m/n/9 mediante caso de estudio
+
+Underfull \hbox (badness 1803) in paragraph at lines 683--685
+\TU/Arial(0)/m/n/9 VD: Efectividad práctica y
+
+Underfull \hbox (badness 1014) in paragraph at lines 692--694
+\TU/Arial(0)/m/n/9 miten medir objetivamente
+
+Underfull \hbox (badness 1521) in paragraph at lines 692--694
+\TU/Arial(0)/m/n/9 el éxito de una selección
+
+Underfull \hbox (badness 1117) in paragraph at lines 692--694
+\TU/Arial(0)/m/n/9 tecnológica de interfaz de
+
+Underfull \hbox (badness 10000) in paragraph at lines 704--706
+\TU/Arial(0)/m/n/9 Correlación indicadores-
+
+Underfull \hbox (badness 1342) in paragraph at lines 710--713
+[]|\TU/Arial(0)/m/n/9 PE6: ¿De qué manera la
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--713
+\TU/Arial(0)/m/n/9 disponibilidad de herra-
+
+Underfull \hbox (badness 2809) in paragraph at lines 710--713
+\TU/Arial(0)/m/n/9 mientas de IA generativa
+
+Underfull \hbox (badness 2818) in paragraph at lines 714--717
+[]|\TU/Arial(0)/m/n/9 OE6: Determinar el efec-
+
+Underfull \hbox (badness 1215) in paragraph at lines 714--717
+\TU/Arial(0)/m/n/9 to de la adopción de he-
+
+Underfull \hbox (badness 1325) in paragraph at lines 718--722
+[]|\TU/Arial(0)/m/n/9 HE6: La disponibilidad de
+
+Underfull \hbox (badness 6220) in paragraph at lines 723--725
+\TU/Arial(0)/m/n/9 tas de IA generativa en
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--725
+\TU/Arial(0)/m/n/9 VD: Relevancia relati-
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--725
+\TU/Arial(0)/m/n/9 va de criterios técnicos-
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--731
+[]|\TU/Arial(0)/m/n/9 Análisis de sensibilidad
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 591--731
+ [] [] [] [] [] [] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[16]) (2_CAPITULO2/capitulo2.tex
+Capítulo II.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[18]) (2_CAPITULO3/capitulo3.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[19]
+Capítulo III.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[20]
+Underfull \hbox (badness 1721) in paragraph at lines 92--93
+[]|\TU/Arial(0)/m/n/10 Fragmentación decisional de criterios
+) (2_CAPITULO4/capitulo4.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[22]
+Capítulo IV.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\TU/Arial(0)/m/n/10 Peso
+
+Underfull \hbox (badness 2680) in paragraph at lines 32--32
+[]|\TU/Arial(0)/m/n/10 Compatibilidad multiplatafor-
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]|\TU/Arial(0)/m/n/10 PCI-DSS, DORA, normativas
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]|\TU/Arial(0)/m/n/10 Arquitecturas heterogéneas
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]|\TU/Arial(0)/m/n/10 Criticidad operacional –
+
+Underfull \hbox (badness 4242) in paragraph at lines 36--36
+[]|\TU/Arial(0)/m/n/10 Gobernanza regulatoria del
+
+Overfull \hbox (4.7022pt too wide) in paragraph at lines 23--41
+ [][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[23]) (3_1_CONCLUSIONES/conclusiones.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[27]) (3_3_BIBLIOGRAFIA/bibliografia.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[29]
+Underfull \hbox (badness 2443) in paragraph at lines 17--18
+[]\TU/Arial(0)/m/n/10.95 Clark, G., y McDonald, S. (2022). WebAssembly and the 
+future of high-
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]\TU/Arial(0)/m/n/10.95 Deloitte. (2022). \TU/Arial(0)/m/it/10.95 Global finan
+cial services industry outlook\TU/Arial(0)/m/n/10.95 . Descarga-
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\TU/Arial(0)/m/n/10.95 do de [][]$[][][][][] [][][] [][][][] [] [][][][][][][][
+][] [] [][][][] [] [][][][][][] [] [][] [] [][][][][][][][] [] [][][][][][][][]
+ []
+
+Underfull \hbox (badness 2065) in paragraph at lines 27--28
+[]\TU/Arial(0)/m/n/10.95 Devographics. (2024). \TU/Arial(0)/m/it/10.95 State of
+ JavaScript 2024\TU/Arial(0)/m/n/10.95 . Descargado de [][]$[][][][][] [][][]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[30]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[31])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[32] (main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)
+Output written on main.xdv (33 pages, 697136 bytes).
+Transcript written on main.log.
+xelatex: major issue: So far, you have not checked for MiKTeX updates.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: References changed.
+Latexmk: Log file says output to 'main.xdv'
+Latexmk: applying rule 'xelatex'...
+Rule 'xelatex':  Reasons for rerun
+Changed files or newly in use/created:
+  main.aux
+
+------------
+Run number 2 of rule 'xelatex'
+------------
+------------
+Running 'xelatex -no-pdf -interaction=nonstopmode -recorder  "main.tex"'
+------------
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex.fmt)
+ restricted \write18 enabled.
+entering extended mode
+(main.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(TesisUNI.cls
+
+LaTeX Warning: You have requested document class `TesisUNI',
+               but the document class provides `book'.
+
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+)) (0_0_PREAMBULO/preambulo.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/apacite\apacite.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\bab
+el-english.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\bab
+el-spanish.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english
+.ldf)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish
+.ldf))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/layouts\layouts.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpa
+rse.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-x
+etex.def)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xet
+ex.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg
+)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.de
+f)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage
+.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l
+3keys2e.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.s
+ty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefi
+nekeys.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape
+.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcm
+ds.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr
+.sty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gett
+itlestring.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.s
+ty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc
+.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintca
+lc.sty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunf
+ilecheck.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqu
+ecounter.sty)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unicode-
+math.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unicode-
+math-xetex.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\fix-cm.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1enc.def))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+For additional information on amsmath, use the `?' option.
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/unicode-math\unicode-
+math-table.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.st
+y (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty)
+))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tik
+z.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.st
+y
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.
+sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-common.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfut
+il-latex.def)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrc
+s.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.te
+x)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcor
+e.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsy
+s.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+yslibraryfiltered.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+.cfg)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-xetex.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-dvipdfmx.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sys-common-pdf.def))))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+syssoftpath.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf
+sysprotocol.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cf
+g)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
+x))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+ore.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathuti
+l.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathpar
+ser.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.basic.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.trigonometric.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.random.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.comparison.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.base.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.round.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.misc.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfun
+ctions.integerarithmetics.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcal
+c.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathflo
+at.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.cod
+e.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepoints.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathconstruct.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathusage.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orescopes.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oregraphicstate.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransformations.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orequick.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreobjects.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepathprocessing.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orearrows.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreshade.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreimage.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oreexternal.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orelayers.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+oretransparency.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orepatterns.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfc
+orerdf.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leshapes.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+leplot.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-0-65.sty)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgf
+comp-version-1-18.sty))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.
+sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys
+.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfke
+ys.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.co
+de.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffo
+r.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz\tikz.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplothandlers.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+lematrix.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarytopaths.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarycalc.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarypositioning.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.geometric.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.geometric.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.symbols.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.symbols.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryshapes.misc.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/shape
+s\pgflibraryshapes.misc.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryarrows.meta.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodu
+ledecorations.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathreplacing.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty)
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+))
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty)
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.s
+ty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-n
+ometadata.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty))
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.r
+evision.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.c
+ode.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+re.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplo
+tssysgeneric.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfpl
+otslibrary.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcomp
+atib\pgfplotsoldpgfsupp_loader.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcomp
+atib\pgfplotsoldpgfsupp_pgfutil-common-lists.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructure.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsliststructureext.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsarray.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsmatrix.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\p
+gfplotstableshared.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststruct
+ure\pgfplotsdeque.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsbinary.data.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otsutil.verb.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfli
+brarypgfplots.surfshading.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
+rarypgfplots.surfshading.pgfsys-xetex.def
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflib
+rarypgfplots.surfshading.pgfsys-dvipdfmx.def))))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolormap.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfpl
+otscolor.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsst
+ackedplots.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotspl
+othandlers.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplothandler.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsme
+shplotimage.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.s
+caling.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsco
+ordprocessing.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.e
+rrorbars.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.m
+arkers.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsti
+cks.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.p
+aths.code.tex)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decor
+ations\pgflibrarydecorations.pathmorphing.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzl
+ibrarypgfplots.contourlua.code.tex))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
+ikz/libraries\tikzlibraryplotmarks.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgfli
+braryplotmarks.code.tex)))
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\pgf-pie.sty
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pgf-pie\tikzlibrarypi
+e.code.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
+)))) (main.aux)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/apacite\spanish.apc)
+
+Package layouts Warning: Layout scale set to 0.5 on input line 11.
+
+(main.out) (main.out)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+)
+Package pgfplots notification 'compat/show suggested version=true': document ha
+s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
+
+(1_0_CARATULA/caratula.tex [1]) (1_4_RESUMEN/resumen.tex
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd)
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[1]) (1_8_INDICE_PROPUESTO/indice_propuesto.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--24
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+
+) (2_CAPITULO1/capitulo1.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[3]
+Capítulo I.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[4]
+Overfull \hbox (1.24675pt too wide) in paragraph at lines 84--91
+[]\TU/Arial(0)/b/n/10.95 Requisitos regulatorios estrictos: \TU/Arial(0)/m/n/10
+.95 el cumplimiento de normativas como PCI-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/Arial(0)/m/n/10.95 Versiones Mayores
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\TU/Arial(0)/m/n/10.95 Actualizaciones de
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[6]
+Overfull \hbox (4.14055pt too wide) in paragraph at lines 153--155
+[]\TU/Arial(0)/b/n/10.95 Desconexión histórica: \TU/Arial(0)/m/n/10.95 78$ $% n
+o incorporó sistemáticamente lecciones apren-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[7]
+Overfull \hbox (10.65971pt too wide) in paragraph at lines 221--225
+[]\TU/Arial(0)/b/n/10.95 Costos directos: \TU/Arial(0)/m/n/10.95 según Boston C
+onsulting Group (2023), las decisiones subóp-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[8]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[11]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[12]
+Overfull \hbox (5.78023pt too wide) in paragraph at lines 483--490
+[]\TU/Arial(0)/b/n/10.95 Enfoque de investigación. \TU/Arial(0)/m/n/10.95 La in
+vestigación requiere un enfoque mixto (cuantitativo-
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[15]
+Overfull \hbox (246.36469pt too wide) in alignment at lines 576--581
+ [] [] [] [] [] [] 
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 581--586
+ [] [] [] [] [] [] 
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 586--589
+ [] [] [] [] [] [] 
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 589--591
+ [] [] [] [] [] [] 
+
+Underfull \hbox (badness 3219) in paragraph at lines 597--600
+[]|\TU/Arial(0)/m/n/9 OG: Desarrollar y validar
+
+Underfull \hbox (badness 4582) in paragraph at lines 597--600
+\TU/Arial(0)/m/n/9 criterios técnicos y regu-
+
+Underfull \hbox (badness 3199) in paragraph at lines 597--600
+\TU/Arial(0)/m/n/9 latorios para la selección
+
+Underfull \hbox (badness 2005) in paragraph at lines 601--607
+\TU/Arial(0)/m/n/9 trados predominantemente
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--610
+[]|\TU/Arial(0)/m/n/9 VI: Metodología técnico-
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--613
+[]|\TU/Arial(0)/m/n/9 Alineación con requisitos
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--613
+\TU/Arial(0)/m/n/9 Robustez de la decisión
+
+Underfull \hbox (badness 10000) in paragraph at lines 624--627
+[]|\TU/Arial(0)/m/n/9 HE1: La identificación y
+
+Underfull \hbox (badness 2762) in paragraph at lines 628--630
+[]|\TU/Arial(0)/m/n/9 VI: Aplicación de criterios
+
+Underfull \hbox (badness 1297) in paragraph at lines 631--633
+[]|\TU/Arial(0)/m/n/9 Grado de alineación entre
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--636
+[]|\TU/Arial(0)/m/n/9 Matriz de trazabilidad
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--639
+[]|\TU/Arial(0)/m/n/9 PE2: ¿Qué instrumentos
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--639
+\TU/Arial(0)/m/n/9 metodológicos permiten
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--639
+\TU/Arial(0)/m/n/9 cuantificar objetivamente
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 trumentos metodológicos
+
+Underfull \hbox (badness 6032) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 especializados incrementa
+
+Underfull \hbox (badness 2600) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 significativamente la obje-
+
+Underfull \hbox (badness 5302) in paragraph at lines 643--645
+\TU/Arial(0)/m/n/9 tividad, reproducibilidad y
+
+Underfull \hbox (badness 1264) in paragraph at lines 649--651
+[]|\TU/Arial(0)/m/n/9 Consistencia entre evalua-
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--664
+[]|\TU/Arial(0)/m/n/9 HE3: La implementación
+
+Underfull \hbox (badness 2799) in paragraph at lines 661--664
+\TU/Arial(0)/m/n/9 de un proceso decisional
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--664
+\TU/Arial(0)/m/n/9 estructurado técnico-
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--664
+\TU/Arial(0)/m/n/9 frente a aproximaciones
+
+Underfull \hbox (badness 10000) in paragraph at lines 665--667
+[]|\TU/Arial(0)/m/n/9 VI: Proceso decisional
+
+Underfull \hbox (badness 10000) in paragraph at lines 668--670
+\TU/Arial(0)/m/n/9 Participación cross-
+
+Underfull \hbox (badness 3209) in paragraph at lines 677--679
+[]|\TU/Arial(0)/m/n/9 OE4: Implementar y vali-
+
+Underfull \hbox (badness 1117) in paragraph at lines 680--682
+\TU/Arial(0)/m/n/9 mediante caso de estudio
+
+Underfull \hbox (badness 1803) in paragraph at lines 683--685
+\TU/Arial(0)/m/n/9 VD: Efectividad práctica y
+
+Underfull \hbox (badness 1014) in paragraph at lines 692--694
+\TU/Arial(0)/m/n/9 miten medir objetivamente
+
+Underfull \hbox (badness 1521) in paragraph at lines 692--694
+\TU/Arial(0)/m/n/9 el éxito de una selección
+
+Underfull \hbox (badness 1117) in paragraph at lines 692--694
+\TU/Arial(0)/m/n/9 tecnológica de interfaz de
+
+Underfull \hbox (badness 10000) in paragraph at lines 704--706
+\TU/Arial(0)/m/n/9 Correlación indicadores-
+
+Underfull \hbox (badness 1342) in paragraph at lines 710--713
+[]|\TU/Arial(0)/m/n/9 PE6: ¿De qué manera la
+
+Underfull \hbox (badness 10000) in paragraph at lines 710--713
+\TU/Arial(0)/m/n/9 disponibilidad de herra-
+
+Underfull \hbox (badness 2809) in paragraph at lines 710--713
+\TU/Arial(0)/m/n/9 mientas de IA generativa
+
+Underfull \hbox (badness 2818) in paragraph at lines 714--717
+[]|\TU/Arial(0)/m/n/9 OE6: Determinar el efec-
+
+Underfull \hbox (badness 1215) in paragraph at lines 714--717
+\TU/Arial(0)/m/n/9 to de la adopción de he-
+
+Underfull \hbox (badness 1325) in paragraph at lines 718--722
+[]|\TU/Arial(0)/m/n/9 HE6: La disponibilidad de
+
+Underfull \hbox (badness 6220) in paragraph at lines 723--725
+\TU/Arial(0)/m/n/9 tas de IA generativa en
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--725
+\TU/Arial(0)/m/n/9 VD: Relevancia relati-
+
+Underfull \hbox (badness 10000) in paragraph at lines 723--725
+\TU/Arial(0)/m/n/9 va de criterios técnicos-
+
+Underfull \hbox (badness 10000) in paragraph at lines 729--731
+[]|\TU/Arial(0)/m/n/9 Análisis de sensibilidad
+
+Overfull \hbox (246.36469pt too wide) in alignment at lines 591--731
+ [] [] [] [] [] [] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[16]) (2_CAPITULO2/capitulo2.tex
+Capítulo II.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[18]) (2_CAPITULO3/capitulo3.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[19]
+Capítulo III.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[20]
+Underfull \hbox (badness 1721) in paragraph at lines 92--93
+[]|\TU/Arial(0)/m/n/10 Fragmentación decisional de criterios
+) (2_CAPITULO4/capitulo4.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[22]
+Capítulo IV.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+[]|\TU/Arial(0)/m/n/10 Peso
+
+Underfull \hbox (badness 2680) in paragraph at lines 32--32
+[]|\TU/Arial(0)/m/n/10 Compatibilidad multiplatafor-
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]|\TU/Arial(0)/m/n/10 PCI-DSS, DORA, normativas
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+[]|\TU/Arial(0)/m/n/10 Arquitecturas heterogéneas
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]|\TU/Arial(0)/m/n/10 Criticidad operacional –
+
+Underfull \hbox (badness 4242) in paragraph at lines 36--36
+[]|\TU/Arial(0)/m/n/10 Gobernanza regulatoria del
+
+Overfull \hbox (4.7022pt too wide) in paragraph at lines 23--41
+ [][] 
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[23]) (3_1_CONCLUSIONES/conclusiones.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[27]) (3_3_BIBLIOGRAFIA/bibliografia.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[29]
+Underfull \hbox (badness 2443) in paragraph at lines 17--18
+[]\TU/Arial(0)/m/n/10.95 Clark, G., y McDonald, S. (2022). WebAssembly and the 
+future of high-
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]\TU/Arial(0)/m/n/10.95 Deloitte. (2022). \TU/Arial(0)/m/it/10.95 Global finan
+cial services industry outlook\TU/Arial(0)/m/n/10.95 . Descarga-
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\TU/Arial(0)/m/n/10.95 do de [][]$[][][][][] [][][] [][][][] [] [][][][][][][][
+][] [] [][][][] [] [][][][][][] [] [][] [] [][][][][][][][] [] [][][][][][][][]
+ []
+
+Underfull \hbox (badness 2065) in paragraph at lines 27--28
+[]\TU/Arial(0)/m/n/10.95 Devographics. (2024). \TU/Arial(0)/m/it/10.95 State of
+ JavaScript 2024\TU/Arial(0)/m/n/10.95 . Descargado de [][]$[][][][][] [][][]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[30]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[31])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 24.83238pt, for example:
+(fancyhdr)                \setlength{\headheight}{24.83238pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
+
+[32] (main.aux) )
+(see the transcript file for additional information)
+Output written on main.xdv (33 pages, 697136 bytes).
+Transcript written on main.log.
+xelatex: major issue: So far, you have not checked for MiKTeX updates.
+Latexmk: Getting log file 'main.log'
+Latexmk: Examining 'main.fls'
+Latexmk: Examining 'main.log'
+Latexmk: Log file says output to 'main.xdv'
+Latexmk: applying rule 'xdvipdfmx'...
+Rule 'xdvipdfmx':  Reasons for rerun
+Changed files or newly in use/created:
+  main.xdv
+Category 'changed_source_rules':
+  xelatex
+
+------------
+Run number 1 of rule 'xdvipdfmx'
+------------
+------------
+Running 'xdvipdfmx -E -o "main.pdf"  "main.xdv"'
+------------
+main.xdv -> main.pdf
+[1][2
+xdvipdfmx:warning: Object @page.1 already defined.
+][3][4][5][6][7][8][9][10][11][12][13][14][15][16][17][18][19][20][21][22][23][24][25][26][27][28][29][30][31][32][33]
+219009 bytes written
+xdvipdfmx: major issue: So far, you have not checked for MiKTeX updates.
+Latexmk: All targets (main.xdv main.pdf) are up-to-date
+
+latexmk: major issue: So far, you have not checked for MiKTeX updates.

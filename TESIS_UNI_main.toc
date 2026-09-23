@@ -1,0 +1,86 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Agradecimientos}{\es@scroman {iii}}{chapter*.3}%
+\contentsline {chapter}{Resumen}{\es@scroman {vii}}{chapter*.4}%
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{Abstract}{\es@scroman {ix}}{chapter*.5}%
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Prólogo}{\es@scroman {xi}}{chapter*.6}%
+\contentsline {chapter}{\centering LISTA DE TABLAS}{\es@scroman {xiii}}{section*.7}%
+\contentsline {chapter}{\centering LISTA DE FIGURAS}{\es@scroman {xiv}}{section*.8}%
+\contentsline {chapter}{Lista de símbolos y siglas}{\es@scroman {xv}}{chapter*.9}%
+\contentsline {chapter}{\numberline {I}Introducción}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Generalidades}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Descripción del problema de investigación}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Problema General}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Problemas Específicos}{5}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1.3}Objetivos del estudio}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivos Específicos}{6}{subsection.1.3.2}%
+\contentsline {section}{\numberline {1.4}Hipótesis del estudio}{7}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Hipótesis General}{7}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Hipótesis Específicas}{7}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}Operacionalización de variables}{9}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Matriz de Consistencia}{9}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1.5}Metodología}{12}{section.1.5}%
+\contentsline {chapter}{\numberline {II}Marco teórico}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Fundamentos de tecnologías de interfaz de usuario en el contexto bancario}{15}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Evolución de las interfaces de usuario en la banca}{15}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Características distintivas de las tecnologías de interfaz de usuario en la banca}{15}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Taxonomía de frameworks de interfaz de usuario contemporáneos}{16}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Modelos de evaluación y selección tecnológica}{16}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Teorías de adopción tecnológica en entornos empresariales}{16}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Criterios técnicos para evaluación de frameworks de interfaz de usuario}{17}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Criterios no técnicos en la selección tecnológica}{17}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Regulaciones y cumplimiento en el sector bancario}{18}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Marco regulatorio para tecnologías de interfaz de usuario en servicios financieros}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Impacto de las regulaciones en la selección tecnológica}{19}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Procesos decisionales en tecnología bancaria}{19}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Estructuras organizacionales y gobernanza tecnológica}{19}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Stakeholders en la selección de tecnologías de interfaz de usuario}{20}{subsection.2.4.2}%
+\contentsline {section}{\numberline {2.5}Metodologías existentes para evaluación tecnológica}{20}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Análisis comparativo de frameworks de evaluación}{20}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Limitaciones de las metodologías existentes para el sector bancario}{21}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Medición del éxito en la implementación tecnológica}{21}{section.2.6}%
+\contentsline {subsection}{\numberline {2.6.1}Indicadores clave de rendimiento (KPIs) para tecnologías de interfaz de usuario}{21}{subsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.6.2}Enfoques para la validación empírica de decisiones tecnológicas}{22}{subsection.2.6.2}%
+\contentsline {section}{\numberline {2.7}Tendencias emergentes en tecnologías de interfaz de usuario para banca}{23}{section.2.7}%
+\contentsline {subsection}{\numberline {2.7.1}Micro-frontends y arquitecturas componibles}{23}{subsection.2.7.1}%
+\contentsline {subsection}{\numberline {2.7.2}WebAssembly y aplicaciones de alto rendimiento}{23}{subsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.7.3}Inteligencia artificial y personalización avanzada}{23}{subsection.2.7.3}%
+\contentsline {section}{\numberline {2.8}Referencias teóricas para el desarrollo metodológico}{24}{section.2.8}%
+\contentsline {subsection}{\numberline {2.8.1}Teoría de decisiones multicriterio}{24}{subsection.2.8.1}%
+\contentsline {section}{\numberline {2.9}Análisis técnico de Angular, React y Vue.js}{24}{section.2.9}%
+\contentsline {subsection}{\numberline {2.9.1}Arquitecturas y paradigmas de los frameworks evaluados}{24}{subsection.2.9.1}%
+\contentsline {section}{\numberline {2.10}Fundamentos matemáticos de la evaluación multicriterio}{25}{section.2.10}%
+\contentsline {subsection}{\numberline {2.10.1}Proceso Analítico Jerárquico (AHP)}{26}{subsection.2.10.1}%
+\contentsline {section}{\numberline {2.11}Ecosistema y estadísticas de adopción tecnológica}{27}{section.2.11}%
+\contentsline {subsection}{\numberline {2.11.1}Índices de adopción de frameworks de interfaz de usuario (2022--2025)}{27}{subsection.2.11.1}%
+\contentsline {subsection}{\numberline {2.11.2}Justificación de la delimitación del universo de estudio}{28}{subsection.2.11.2}%
+\contentsline {subsection}{\numberline {2.11.3}Impacto de la Inteligencia Artificial generativa en el modelo de decisión}{29}{subsection.2.11.3}%
+\contentsline {chapter}{\numberline {III}Diseño de la metodología propuesta}{32}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Tecnologías de interfaz de usuario en el contexto bancario}{32}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Definición de tecnologías de interfaz de usuario}{32}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Frameworks de interfaz de usuario}{32}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Tecnologías complementarias}{33}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Instituciones bancarias y su contexto tecnológico}{33}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Características distintivas del sector bancario}{33}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Arquitectura tecnológica bancaria}{34}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Tendencias de transformación digital bancaria}{34}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Criterios de evaluación y selección tecnológica}{35}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Criterios técnicos}{35}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Factores organizacionales: por qué se excluyen del modelo ponderado}{36}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Criterios específicos del sector bancario}{37}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Matriz de ponderación de criterios de evaluación}{38}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Proceso estructurado de toma de decisiones}{38}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Implementación y roles del proceso decisional}{41}{subsection.3.4.1}%
+\contentsline {chapter}{\numberline {IV}Aplicación y validación: caso de estudio}{43}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Descripción del caso de estudio y aplicación metodológica}{43}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Resultados de la evaluación y decisión final}{43}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Puntuaciones de la evaluación técnica y regulatoria}{43}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Análisis de resultados y decisión institucional}{45}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Análisis gráfico de los resultados}{46}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Análisis de sensibilidad de los pesos AHP}{47}{subsection.4.2.4}%
+\contentsline {chapter}{Conclusiones}{50}{chapter*.25}%
+\contentsline {chapter}{Recomendaciones}{53}{chapter*.26}%
+\contentsline {chapter}{Referencias bibliográficas}{55}{chapter*.27}%
+\contentsline {chapter}{Anexos}{58}{chapter*.29}%

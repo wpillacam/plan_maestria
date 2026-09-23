@@ -1,0 +1,98 @@
+\chapter{DESARROLLO METODOLÓGICO PROPUESTO}
+
+\section{CRITERIOS DE EVALUACIÓN Y SELECCIÓN TECNOLÓGICA}
+
+La metodología propuesta evaluará las tecnologías de interfaz de usuario
+mediante diez criterios agrupados en dos dimensiones: técnica (60\% del peso
+total) y regulatoria (40\%). Los criterios organizacionales tradicionales
+(ecosistema, talento, alineación estratégica) se excluyen de la ponderación,
+hipótesis que se sustenta en el efecto nivelador de la IA generativa y que
+será justificada y validada en la tesis.
+
+Los pesos de cada criterio se derivan mediante AHP a partir del consenso de
+un panel de expertos del sector bancario (Técnica Delphi). La Tabla
+\ref{tab:4.1} resume la matriz de ponderación propuesta; la justificación
+detallada de cada criterio y el procedimiento completo de ponderación se
+desarrollarán en la tesis.
+
+\begin{table}[htbp]
+\centering
+\caption{Matriz de ponderación de criterios de evaluación para el sector bancario}
+\label{tab:4.1}
+\small
+\begin{tabular}{@{}p{4.6cm}p{2cm}p{1.3cm}p{5cm}@{}}
+\toprule
+Criterio & Dimensión & Peso ($w_i$) & Justificación \\
+\midrule
+Seguridad y protección              & Técnica     & 0.16 & Requisito crítico e indelegable en banca \\
+Rendimiento y escalabilidad         & Técnica     & 0.13 & Picos de tráfico hasta 20$\times$ la base \\
+Mantenibilidad del código           & Técnica     & 0.13 & Equipos grandes, proyectos plurianuales \\
+Calidad del código generado por IA  & Técnica     & 0.08 & Consistencia y auditabilidad del código asistido por IA (criterio emergente) \\
+Accesibilidad (WCAG 2.2)            & Técnica     & 0.06 & Obligación normativa e inclusión financiera \\
+Compatibilidad multiplataforma      & Técnica     & 0.04 & Omnicanalidad bancaria \\
+Cumplimiento regulatorio            & Regulatoria & 0.16 & PCI-DSS, DORA, normativas SBS/locales \\
+Integración con sistemas legacy     & Regulatoria & 0.12 & Arquitecturas heterogéneas (15+ años) \\
+Alta disponibilidad (SLA)           & Regulatoria & 0.06 & Criticidad operacional -- US\$67k/min caída \\
+Gobernanza regulatoria del uso de IA & Regulatoria & 0.06 & Trazabilidad y riesgo de IP del código IA-asistido (criterio emergente) \\
+\midrule
+\textbf{Total} & & \textbf{1.00} & \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{PROCESO ESTRUCTURADO DE TOMA DE DECISIONES}
+
+El proceso decisional propuesto comprenderá cuatro fases: (1) identificación
+de requisitos técnicos y regulatorios aplicables; (2) evaluación comparativa
+de los frameworks candidatos contra la matriz ponderada; (3) análisis
+técnico-regulatorio con las áreas de arquitectura, seguridad y cumplimiento;
+y (4) decisión documentada con seguimiento post-implementación. En la tesis
+se detallarán los flujos, artefactos y roles de cada fase.
+
+\section{APLICACIÓN Y VALIDACIÓN: CASO DE ESTUDIO}
+
+La metodología se aplicará a un caso de estudio real en una institución
+bancaria en proceso de transformación digital, comparando Angular, React y
+Vue.js con la matriz ponderada. La validación contemplará indicadores antes y
+después de la aplicación y un análisis de sensibilidad de los pesos AHP con y
+sin los criterios asociados a la IA generativa. Los resultados y su discusión
+se presentarán en la tesis.
+
+\section{ETAPAS DEL DESARROLLO METODOLÓGICO PROPUESTO}
+
+El desarrollo de la tesis seguirá la lógica del ciclo de mejora continua,
+contemplando las siguientes etapas:
+
+\begin{enumerate}
+  \item \textbf{Planificar:} diagnóstico del estado actual de la selección
+        tecnológica y definición de los criterios técnicos y regulatorios
+        ponderados mediante AHP.
+  \item \textbf{Hacer:} diseño del proceso estructurado de toma de decisiones
+        y de los instrumentos de evaluación comparativa de frameworks.
+  \item \textbf{Verificar:} aplicación de la metodología en un caso de estudio
+        real y medición de las puntuaciones técnicas y regulatorias obtenidas.
+  \item \textbf{Actuar:} análisis de sensibilidad de los pesos y formulación
+        de ajustes metodológicos a partir de los resultados obtenidos.
+\end{enumerate}
+
+\section*{CRONOGRAMA TENTATIVO}
+
+\begin{table}[htbp]
+\centering
+\caption{Cronograma tentativo de elaboración y desarrollo de la investigación}
+\label{tab:4.crono}
+\small
+\begin{tabular}{|p{6.4cm}|c|c|c|}
+\hline
+\textbf{Etapa} & \textbf{Meses 1-2} & \textbf{Meses 3-4} & \textbf{Meses 5-6} \\ \hline
+Presentación del plan de tesis & X & & \\ \hline
+Elaboración y revisión de capítulos & X & X & \\ \hline
+Recolección de datos del caso de estudio & & X & \\ \hline
+Procesamiento e interpretación de resultados & & X & X \\ \hline
+Revisión final del asesor & & & X \\ \hline
+Aprobación y sustentación de la tesis & & & X \\ \hline
+\end{tabular}
+\end{table}
+
+\noindent Nota: La tabla indica el cronograma tentativo del presente estudio.
+Elaboración propia.
