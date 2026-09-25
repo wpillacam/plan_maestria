@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.21)  21 SEP 2026 18:34
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.9.21)  24 SEP 2026 18:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1458,10 +1458,30 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@cols=\count432
 \TX@ftn=\toks46
 )
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.s
+ty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-n
+ometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
+
+)) (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.st
+y
+Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
+\ESO@tempdima=\dimen334
+\ESO@tempdimb=\dimen335
+)
 (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip142
-\enit@outerparindent=\dimen334
+\enit@outerparindent=\dimen336
 \enit@toks=\toks47
 \enit@inbox=\box79
 \enit@count@id=\count433
@@ -1480,7 +1500,7 @@ re.code.tex
 \t@pgfplots@toka=\toks48
 \t@pgfplots@tokb=\toks49
 \t@pgfplots@tokc=\toks50
-\pgfplots@tmpa=\dimen335
+\pgfplots@tmpa=\dimen337
 \c@pgfplots@coordindex=\count435
 \c@pgfplots@scanlineindex=\count436
 
@@ -1565,12 +1585,12 @@ ations\pgflibrarydecorations.pathmorphing.code.tex))
 (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\tikzl
 ibrarypgfplots.contourlua.code.tex)
 \pgfplots@numplots=\count441
-\pgfplots@xmin@reg=\dimen336
-\pgfplots@xmax@reg=\dimen337
-\pgfplots@ymin@reg=\dimen338
-\pgfplots@ymax@reg=\dimen339
-\pgfplots@zmin@reg=\dimen340
-\pgfplots@zmax@reg=\dimen341
+\pgfplots@xmin@reg=\dimen338
+\pgfplots@xmax@reg=\dimen339
+\pgfplots@ymin@reg=\dimen340
+\pgfplots@ymax@reg=\dimen341
+\pgfplots@zmin@reg=\dimen342
+\pgfplots@zmax@reg=\dimen343
 )
 (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/t
 ikz/libraries\tikzlibraryplotmarks.code.tex
@@ -1588,48 +1608,38 @@ ikz package.
 e.code.tex
 (C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty
 )
-\pgfpie@angleEnd=\dimen342
+\pgfpie@angleEnd=\dimen344
 \pgfpie@explodeLength=\count442
 \pgfpie@colorLength=\count443
 \pgfpie@sliceLength=\count444
-))) (TESIS_UNI_main.aux (1_0_CARATULA/caratula.aux)
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
+))) (TESIS_UNI_main.aux
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 13.
- (1_1_PERMISOS/permisos.aux) (1_2_DEDICATORIA/dedicatoria.aux) (1_3_AGRADECIMIE
-NTOS/agradecimientos.aux)
-(1_4_RESUMEN/resumen.aux) (1_5_ABSTRACT/abstract.aux
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
-) (1_6_PROLOGO/prologo.aux) (1_7_SIMBOLOS/simbolos.aux) (2_CAPITULO1/capitulo1.
-aux)
-(2_CAPITULO2/capitulo2.aux) (2_CAPITULO3/capitulo3.aux)
-(2_CAPITULO4/capitulo4.aux) (3_1_CONCLUSIONES/conclusiones.aux)
-(3_2_RECOMENDACIONES/recomendaciones.aux) (3_3_BIBLIOGRAFIA/bibliografia.aux)
-(3_4_ANEXOS/anexos.aux))
+(babel)             Reported on input line 12.
+)
 \openout1 = `TESIS_UNI_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1671,31 +1681,31 @@ File: spanish.apc 2013/07/21 v6.03 apacite language file
 LaTeX Info: Redefining \BPBI on input line 138.
 LaTeX Info: Redefining \BHBI on input line 139.
 )
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
 
 
-Package layouts Warning: Layout scale set to 0.5 on input line 6.
+Package layouts Warning: Layout scale set to 0.5 on input line 13.
 
-Package hyperref Info: Link coloring ON on input line 6.
+Package hyperref Info: Link coloring ON on input line 13.
 (TESIS_UNI_main.out) (TESIS_UNI_main.out)
 \@outlinefile=\write4
 \openout4 = `TESIS_UNI_main.out'.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/ztmcm/m/n --> TU/Arial(0)/m/n on input line 6.
+(Font)                  OT1/ztmcm/m/n --> TU/Arial(0)/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/ptm/m/it --> TU/Arial(0)/m/it on input line 6.
+(Font)                  OT1/ptm/m/it --> TU/Arial(0)/m/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/ptm/bx/n --> TU/Arial(0)/b/n on input line 6.
+(Font)                  OT1/ptm/bx/n --> TU/Arial(0)/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 6.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 6.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 6.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 6.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 13.
 
 Package fontspec Info: 
 (fontspec)             Font family 'latinmodern-math.otf(0)' created for font
@@ -1734,15 +1744,15 @@ Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,Style=MathScriptScript}
 "
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 6.
+(Font)              `operators' in the math version `normal' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/ztmcm/m/n --> TU/latinmodern-math.otf(1)/m/n on inp
-ut line 6.
+ut line 13.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 6.
+(Font)              `operators' in the math version `bold' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/ztmcm/m/n --> TU/latinmodern-math.otf(1)/b/n on inp
-ut line 6.
+ut line 13.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 1.0001.
@@ -1795,15 +1805,15 @@ language=dflt;+ssty=1;"
 uage=dflt;"
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 6.
+(Font)              `symbols' in the math version `normal' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/ztmcm/m/n --> TU/latinmodern-math.otf(2)/m/n on inp
-ut line 6.
+ut line 13.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 6.
+(Font)              `symbols' in the math version `bold' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/ztmcm/m/n --> TU/latinmodern-math.otf(2)/b/n on inp
-ut line 6.
+ut line 13.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999.
@@ -1850,16 +1860,17 @@ language=dflt;+ssty=1;"
 uage=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 6
-.
+(Font)              `largesymbols' in the math version `normal' on input line 1
+3.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/ztmcm/m/n --> TU/latinmodern-math.otf(3)/m/n on inp
-ut line 6.
+ut line 13.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 6.
+(Font)              `largesymbols' in the math version `bold' on input line 13.
+
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/ztmcm/m/n --> TU/latinmodern-math.otf(3)/b/n on inp
-ut line 6.
+ut line 13.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
@@ -1873,68 +1884,19 @@ Package caption Info: End \AtBeginDocument code.
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.18}).
 
-\openout2 = `1_0_CARATULA/caratula.aux'.
-
 (1_0_CARATULA/caratula.tex
 File: E_IMAGENES/0_Caratula/UNI_LOGO1.pdf Graphic file (type pdf)
 <use E_IMAGENES/0_Caratula/UNI_LOGO1.pdf>
  [1
 
 
+]) (1_4_RESUMEN/resumen.tex)
+(2_CAPITULO1/capitulo1.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 1.
 
-
-])
-\openout2 = `1_1_PERMISOS/permisos.aux'.
-
- (1_1_PERMISOS/permisos.tex) [1
-
-
-
-]
-\openout2 = `1_2_DEDICATORIA/dedicatoria.aux'.
-
-
-(1_2_DEDICATORIA/dedicatoria.tex
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 12.
-
-(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95116pt on input line 12.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.6658pt on input line 12.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.47559pt on input line 12.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94882pt on input line 12.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.66417pt on input line 12.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.47441pt on input line 12.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-2.
-
-(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.665> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.475> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
-)
-[2
-
-
-
-
-]
-\openout2 = `1_3_AGRADECIMIENTOS/agradecimientos.aux'.
-
- (1_3_AGRADECIMIENTOS/agradecimientos.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 24.83238pt, for example:
@@ -1942,21 +1904,196 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
 
-[3
+[1
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=759.6886pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=27.46295pt
+* \marginparwidth=53.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 68.
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 9.00096pt on input line 68.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 68.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 68.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.99904pt on input line 68.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 68.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 68.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 6
+8.
+
+(C:\Users\LarkBox\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 68.
+
+Underfull \hbox (badness 1803) in paragraph at lines 78--87
+\TU/Arial(0)/m/n/9 Indicadores:$ $% de líneas acepta-
+ []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 78--87
+\TU/Arial(0)/b/n/9 Variable Dependiente 1 ($[][]$):
+ []
 
 
-] (TESIS_UNI_main.toc
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 31.
+Underfull \hbox (badness 10000) in paragraph at lines 78--87
+\TU/Arial(0)/m/n/9 (TDR), Complejidad Ciclomática
+ []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--87
+\TU/Arial(0)/b/n/9 Variable Dependiente 2 ($[][]$):
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 78--87
+\TU/Arial(0)/m/n/9 Indicadores: Maintainability Index
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 78--87
+\TU/Arial(0)/m/n/9 (MI), Time to Resolve Change
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 78--87
+\TU/Arial(0)/m/n/9 Request (TTR-CR), Time to Fix
+ []
+
+
+Underfull \hbox (badness 7944) in paragraph at lines 88--96
+[]|\TU/Arial(0)/b/n/9 Tipo y Nivel: \TU/Arial(0)/m/n/9 Aplicada, cuan-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--96
+\TU/Arial(0)/m/n/9 titativa, cuasi-experimental y
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 88--96
+\TU/Arial(0)/b/n/9 Diseño: \TU/Arial(0)/m/n/9 Cuasi-experimental con
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 88--96
+\TU/Arial(0)/m/n/9 grupo control (A – tradicional) y
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 88--96
+\TU/Arial(0)/b/n/9 Población y Muestra: \TU/Arial(0)/m/n/9 Módulos
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--96
+\TU/Arial(0)/b/n/9 Herramientas: \TU/Arial(0)/m/n/9 SonarQube,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--96
+\TU/Arial(0)/m/n/9 ArchUnit, ESLint, JaCoCo, Ji-
+ []
+
+
+Underfull \hbox (badness 5893) in paragraph at lines 96--103
+\TU/Arial(0)/m/n/9 3. ¿De qué manera la sobre-
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 96--103
+\TU/Arial(0)/m/n/9 dependencia de IAG impacta en
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 112--119
+\TU/Arial(0)/m/n/9 al menos 25$ $% en duplicación y
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 112--119
+[][]$\TU/Arial(0)/m/n/9 : El tiempo de resolución
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 120--124
+\TU/Arial(0)/m/n/9 – Experiencia del desarrollador
+ []
+
+[2
+
+
+] [3]) (1_8_INDICE_PROPUESTO/indice_propuesto.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--37
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+
+ []
+
+LaTeX Info: Redefining \. on input line 45.
+LaTeX Info: Redefining \% on input line 45.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 24.83238pt, for example:
@@ -1967,399 +2104,15 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [4
 
 
+
 ]
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[5])
-\tf@toc=\write5
-\openout5 = `TESIS_UNI_main.toc'.
-
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[6]
-\openout2 = `1_4_RESUMEN/resumen.aux'.
-
- (1_4_RESUMEN/resumen.tex
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[7
-
-
-])
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[8]
-\openout2 = `1_5_ABSTRACT/abstract.aux'.
-
- (1_5_ABSTRACT/abstract.tex
-Overfull \hbox (4.37155pt too wide) in paragraph at lines 46--53
-[]\TU/Arial(0)/m/n/10.95 This research contributes to the field by providing a 
-methodological framework specif-
  []
 
-LaTeX Info: Redefining \. on input line 53.
-LaTeX Info: Redefining \% on input line 53.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[9
-
-
-
-
-]
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
-)
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[10]
-\openout2 = `1_6_PROLOGO/prologo.aux'.
-
- (1_6_PROLOGO/prologo.tex
-LaTeX Info: Redefining \. on input line 51.
-LaTeX Info: Redefining \% on input line 51.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[11
-
-
-
-
-])
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[12]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@centercr' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rightskip' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@flushglue' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leftskip' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@flushglue' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\finalhyphendemerits' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\parindent' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\parfillskip' on input line 43.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@skip' on input line 43.
-
-(TESIS_UNI_main.lot
+) (2_CAPITULO2/capitulo2.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
-
-Overfull \hbox (4.08243pt too wide) in paragraph at lines 10--10
- [][] [][][]\TU/Arial(0)/m/n/10.95 Índices de adopción y ecosistema de Angular,
- React y Vue.js 
- []
-
-
-Overfull \hbox (3.87819pt too wide) in paragraph at lines 13--13
- \TU/Arial(0)/m/n/10.95 tecnologías de interfaz de usuario (modelo técnico-regu
-latorio)[][] []  
- []
-
-)
-\tf@lot=\write6
-\openout6 = `TESIS_UNI_main.lot'.
-
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[13
-
-
-
-]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<let>-command' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@centercr' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\rightskip' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@flushglue' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\leftskip' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@flushglue' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\finalhyphendemerits' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\parindent' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\parfillskip' on input line 46.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@skip' on input line 46.
-
-(TESIS_UNI_main.lof
-LaTeX Info: Redefining \. on input line 1.
-LaTeX Info: Redefining \% on input line 1.
-LaTeX Info: Redefining \. on input line 3.
-LaTeX Info: Redefining \% on input line 3.
-)
-\tf@lof=\write7
-\openout7 = `TESIS_UNI_main.lof'.
-
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[14
-
-]
-\openout2 = `1_7_SIMBOLOS/simbolos.aux'.
-
- (1_7_SIMBOLOS/simbolos.tex
-Overfull \hbox (31.91681pt too wide) in alignment at lines 5--16
- [] [] 
- []
-
-
-Overfull \hbox (31.91681pt too wide) in alignment at lines 19--55
- [] [] 
- []
-
-ignored error: Infinite glue shrinkage found in box being split
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[15
-
-
-])
-LaTeX Info: Redefining \. on input line 49.
-LaTeX Info: Redefining \% on input line 49.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[16]
-\openout2 = `2_CAPITULO1/capitulo1.aux'.
-
- (2_CAPITULO1/capitulo1.tex
-Capítulo I.
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[1
-
-
-
-
-
-]
-Overfull \hbox (1.24675pt too wide) in paragraph at lines 81--88
-[]\TU/Arial(0)/b/n/10.95 Requisitos regulatorios estrictos: \TU/Arial(0)/m/n/10
-.95 el cumplimiento de normativas como PCI-
- []
-
-LaTeX Info: Redefining \. on input line 95.
-LaTeX Info: Redefining \% on input line 95.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[2]
-Overfull \hbox (102.65144pt too wide) in paragraph at lines 118--127
- [][] 
- []
-
-LaTeX Info: Redefining \. on input line 146.
-LaTeX Info: Redefining \% on input line 146.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[3]
-Overfull \hbox (4.14055pt too wide) in paragraph at lines 150--152
-[]\TU/Arial(0)/b/n/10.95 Desconexión histórica: \TU/Arial(0)/m/n/10.95 78$ $% n
-o incorporó sistemáticamente lecciones apren-
- []
-
-
-Overfull \hbox (10.65971pt too wide) in paragraph at lines 162--166
-[]\TU/Arial(0)/b/n/10.95 Costos directos: \TU/Arial(0)/m/n/10.95 según Boston C
-onsulting Group (2023), las decisiones subóp-
- []
-
-LaTeX Info: Redefining \. on input line 201.
-LaTeX Info: Redefining \% on input line 201.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[4]
-LaTeX Info: Redefining \. on input line 236.
-LaTeX Info: Redefining \% on input line 236.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2369,929 +2122,27 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
 
 [5]
-LaTeX Info: Redefining \. on input line 280.
-LaTeX Info: Redefining \% on input line 280.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[6]
-LaTeX Info: Redefining \. on input line 331.
-LaTeX Info: Redefining \% on input line 331.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[7]
-LaTeX Info: Redefining \. on input line 382.
-LaTeX Info: Redefining \% on input line 382.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[8]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00107pt on input line 426.
+(Font)              scaled to size 10.95116pt on input line 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.40077pt on input line 426.
+(Font)              scaled to size 7.6658pt on input line 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 426.
+(Font)              scaled to size 5.47559pt on input line 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 426.
+(Font)              scaled to size 10.94882pt on input line 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.3992pt on input line 426.
+(Font)              scaled to size 7.66417pt on input line 20.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 426.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 426.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 426.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 426.
-
-Underfull \hbox (badness 10000) in paragraph at lines 432--434
-[]|\TU/Arial(0)/m/n/10 Grado de alineación
- []
-
-
-Underfull \hbox (badness 6675) in paragraph at lines 432--434
-\TU/Arial(0)/m/n/10 Nivel de satisfacción
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 434--436
-[]|\TU/Arial(0)/m/n/10 Matriz de trazabilidad
- []
-
-
-Underfull \hbox (badness 2326) in paragraph at lines 437--439
-\TU/Arial(0)/m/n/10 ducibilidad y transpa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 439--441
-[]|\TU/Arial(0)/m/n/10 Consistencia entre
- []
-
-
-Underfull \hbox (badness 4621) in paragraph at lines 439--441
-\TU/Arial(0)/m/n/10 Trazabilidad de deci-
- []
-
-
-Underfull \hbox (badness 7362) in paragraph at lines 441--443
-\TU/Arial(0)/m/n/10 Auditoría de trazabilidad
- []
-
-
-Underfull \hbox (badness 1590) in paragraph at lines 444--446
-\TU/Arial(0)/m/n/10 técnico-regulatorio es-
- []
-
-
-Underfull \hbox (badness 2326) in paragraph at lines 444--446
-\TU/Arial(0)/m/n/10 ción de consideracio-
- []
-
-
-Underfull \hbox (badness 3895) in paragraph at lines 446--448
-[]|\TU/Arial(0)/m/n/10 Tiempo para decisio-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 446--448
-\TU/Arial(0)/m/n/10 Participación cross-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 448--450
-\TU/Arial(0)/m/n/10 Análisis de participación
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 453--455
-[]|\TU/Arial(0)/m/n/10 Comparativa pre/post
- []
-
-
-Underfull \hbox (badness 3612) in paragraph at lines 453--455
-\TU/Arial(0)/m/n/10 Adherencia metodoló-
- []
-
-
-Underfull \hbox (badness 7740) in paragraph at lines 455--457
-\TU/Arial(0)/m/n/10 Lista de verificación de
- []
-
-
-Underfull \hbox (badness 6396) in paragraph at lines 455--457
-\TU/Arial(0)/m/n/10 cumplimiento metodológi-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 460--462
-\TU/Arial(0)/m/n/10 Correlación
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--469
-[]|\TU/Arial(0)/m/n/10 Variación de $[][]$
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--469
-\TU/Arial(0)/m/n/10 Proporción del pe-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 467--469
-\TU/Arial(0)/m/n/10 so Delphi técnico-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 469--471
-[]|\TU/Arial(0)/m/n/10 Análisis de sensibilidad
- []
-
-
-Underfull \hbox (badness 1377) in paragraph at lines 469--471
-\TU/Arial(0)/m/n/10 sobre percepción del im-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--498
-[]|\TU/Arial(0)/m/n/10 PG: ¿De qué manera
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--498
-\TU/Arial(0)/m/n/10 metodología basada
- []
-
-
-Underfull \hbox (badness 7595) in paragraph at lines 494--498
-\TU/Arial(0)/m/n/10 en criterios técnicos y
- []
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 494--498
-\TU/Arial(0)/m/n/10 regulatorios para la se-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--498
-\TU/Arial(0)/m/n/10 lección de tecnologías
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 494--498
-\TU/Arial(0)/m/n/10 instituciones bancarias,
- []
-
-
-Underfull \hbox (badness 1237) in paragraph at lines 503--509
-[]|\TU/Arial(0)/m/n/10 HG: La implementación de
- []
-
-
-Underfull \hbox (badness 1168) in paragraph at lines 503--509
-\TU/Arial(0)/m/n/10 nes tecnológicas significati-
- []
-
-
-Underfull \hbox (badness 2343) in paragraph at lines 503--509
-\TU/Arial(0)/m/n/10 comparación con enfoques
- []
-
-
-Underfull \hbox (badness 2435) in paragraph at lines 513--515
-\TU/Arial(0)/m/n/10 sector bancario para la
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 520--522
-\TU/Arial(0)/m/n/10 metodológicos permiten
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 520--522
-\TU/Arial(0)/m/n/10 cuantificar objetivamente
- []
-
-
-Underfull \hbox (badness 4927) in paragraph at lines 526--528
-\TU/Arial(0)/m/n/10 reproducibilidad y transpa-
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 529--531
-[]|\TU/Arial(0)/m/n/10 PE3: ¿Qué proceso es-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 535--538
-\TU/Arial(0)/m/n/10 turado técnico-regulatorio
- []
-
-
-Underfull \hbox (badness 4328) in paragraph at lines 535--538
-\TU/Arial(0)/m/n/10 optimiza la integración de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 535--538
-\TU/Arial(0)/m/n/10 consideraciones frente a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 535--538
-\TU/Arial(0)/m/n/10 aproximaciones fragmenta-
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 539--541
-[]|\TU/Arial(0)/m/n/10 PE4: ¿Cómo puede va-
- []
-
-
-Underfull \hbox (badness 5245) in paragraph at lines 548--550
-[]|\TU/Arial(0)/m/n/10 PE5: ¿Qué indicadores
- []
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 548--550
-\TU/Arial(0)/m/n/10 permiten medir objetiva-
- []
-
-
-Underfull \hbox (badness 4036) in paragraph at lines 557--560
-[]|\TU/Arial(0)/m/n/10 PE6: ¿De qué manera
- []
-
-
-Underfull \hbox (badness 1112) in paragraph at lines 565--569
-\TU/Arial(0)/m/n/10 nales frente a los técnicos
- []
-
-
-Underfull \hbox (badness 1173) in paragraph at lines 565--569
-\TU/Arial(0)/m/n/10 preferencia por frameworks
- []
-
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[9]
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[10]
-ignored error: Infinite glue shrinkage found in box being split
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[11]
-Overfull \hbox (33.15521pt too wide) in paragraph at lines 577--584
-[]\TU/Arial(0)/b/n/10.95 Enfoque de investigación. \TU/Arial(0)/m/n/10.95 La in
-vestigación requiere un enfoque mixto (cuantitativo-
- []
-
-LaTeX Info: Redefining \. on input line 607.
-LaTeX Info: Redefining \% on input line 607.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[12]
-Overfull \hbox (0.10017pt too wide) in paragraph at lines 607--610
-\TU/Arial(0)/m/n/10.95 trices de evaluación, escalas ponderadas y modelos de pu
-ntuación cuan-
- []
-
-LaTeX Info: Redefining \. on input line 652.
-LaTeX Info: Redefining \% on input line 652.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[13])
-LaTeX Info: Redefining \. on input line 57.
-LaTeX Info: Redefining \% on input line 57.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[14]
-\openout2 = `2_CAPITULO2/capitulo2.aux'.
-
- (2_CAPITULO2/capitulo2.tex
-Capítulo II.
-LaTeX Info: Redefining \. on input line 46.
-LaTeX Info: Redefining \% on input line 46.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[15
-
-
-
-
-]
-LaTeX Info: Redefining \. on input line 94.
-LaTeX Info: Redefining \% on input line 94.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[16]
-Overfull \hbox (1.37938pt too wide) in paragraph at lines 98--102
-[]\TU/Arial(0)/b/n/10.95 Modelo TOE (Tecnología-Organización-Entorno): \TU/Aria
-l(0)/m/n/10.95 formulado por (Tornatzky
- []
-
-
-Overfull \hbox (2.55669pt too wide) in paragraph at lines 122--124
-[]\TU/Arial(0)/b/n/10.95 Escalabilidad: \TU/Arial(0)/m/n/10.95 capacidad para m
-anejar complejidad creciente y grandes equi-
- []
-
-LaTeX Info: Redefining \. on input line 142.
-LaTeX Info: Redefining \% on input line 142.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[17]
-Overfull \hbox (5.7558pt too wide) in paragraph at lines 176--178
-[]\TU/Arial(0)/b/n/10.95 Regulaciones específicas del sector: \TU/Arial(0)/m/n/
-10.95 Directiva de Servicios de Pago (PSD2),
- []
-
-LaTeX Info: Redefining \. on input line 184.
-LaTeX Info: Redefining \% on input line 184.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[18]
-Overfull \hbox (1.94182pt too wide) in paragraph at lines 190--192
-[]\TU/Arial(0)/b/n/10.95 Restricciones arquitectónicas: \TU/Arial(0)/m/n/10.95 
-requisitos de segregación de datos que afec-
- []
-
-LaTeX Info: Redefining \. on input line 228.
-LaTeX Info: Redefining \% on input line 228.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[19]
-LaTeX Info: Redefining \. on input line 275.
-LaTeX Info: Redefining \% on input line 275.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[20]
-LaTeX Info: Redefining \. on input line 319.
-LaTeX Info: Redefining \% on input line 319.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[21]
-LaTeX Info: Redefining \. on input line 365.
-LaTeX Info: Redefining \% on input line 365.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[22]
-LaTeX Info: Redefining \. on input line 409.
-LaTeX Info: Redefining \% on input line 409.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[23]
-Overfull \hbox (4.83415pt too wide) in paragraph at lines 431--434
-\TU/Arial(0)/m/n/10.95 trucción de una metodología robusta de selección tecnoló
-gica (Triantaphyllou, 2000). 
- []
-
-LaTeX Info: Redefining \. on input line 462.
-LaTeX Info: Redefining \% on input line 462.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[24]
-Underfull \hbox (badness 6978) in paragraph at lines 512--512
-[]|\TU/Arial(0)/m/n/10 TypeScript (obliga-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--512
-[]|\TU/Arial(0)/m/n/10 Componentes fun-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--512
-[]|\TU/Arial(0)/m/n/10 Zustand / Redux
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 512--512
-[]|\TU/Arial(0)/m/n/10 Alta (sanitización
- []
-
-LaTeX Info: Redefining \. on input line 524.
-LaTeX Info: Redefining \% on input line 524.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[25]
-LaTeX Info: Redefining \. on input line 559.
-LaTeX Info: Redefining \% on input line 559.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[26]
-Overfull \hbox (8.80405pt too wide) in paragraph at lines 602--614
- [][] 
- []
-
-LaTeX Info: Redefining \. on input line 629.
-LaTeX Info: Redefining \% on input line 629.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[27]
-LaTeX Info: Redefining \. on input line 666.
-LaTeX Info: Redefining \% on input line 666.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[28]
-LaTeX Info: Redefining \. on input line 717.
-LaTeX Info: Redefining \% on input line 717.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[29]
-Package pgfplots info on input line 730: Using 'lua backend=false' for axis: x 
-coord trafo unsupported.
-LaTeX Info: Redefining \. on input line 757.
-LaTeX Info: Redefining \% on input line 757.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[30])
-LaTeX Info: Redefining \. on input line 60.
-LaTeX Info: Redefining \% on input line 60.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[31]
-\openout2 = `2_CAPITULO3/capitulo3.aux'.
-
- (2_CAPITULO3/capitulo3.tex
-Capítulo III.
-
-Overfull \hbox (1.1307pt too wide) in paragraph at lines 7--13
-\TU/Arial(0)/m/n/10.95 frameworks, bibliotecas y metodologías que permiten desa
-rrollar la interfaz de usua-
- []
-
-
-Overfull \hbox (4.74168pt too wide) in paragraph at lines 42--46
-[]\TU/Arial(0)/b/n/10.95 Micro-frontends: \TU/Arial(0)/m/n/10.95 arquitectura q
-ue descompone interfaces monolíticas en apli-
- []
-
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[32
-
-
-
-
-]
-LaTeX Info: Redefining \. on input line 96.
-LaTeX Info: Redefining \% on input line 96.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[33]
-LaTeX Info: Redefining \. on input line 145.
-LaTeX Info: Redefining \% on input line 145.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[34]
-LaTeX Info: Redefining \. on input line 184.
-LaTeX Info: Redefining \% on input line 184.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[35]
-LaTeX Info: Redefining \. on input line 231.
-LaTeX Info: Redefining \% on input line 231.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[36]
-LaTeX Info: Redefining \. on input line 275.
-LaTeX Info: Redefining \% on input line 275.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[37]
-Package pgfplots info on input line 335: Using 'lua backend=false' for axis: x 
-coord trafo unsupported.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00085pt on input line 348.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 348.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 348.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 348.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 348.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 348.
-
-Overfull \hbox (24.67346pt too wide) in paragraph at lines 349--350
- [][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 374--374
-[]|\TU/Arial(0)/m/n/10 Peso
- []
-
-
-Underfull \hbox (badness 2680) in paragraph at lines 381--381
-[]|\TU/Arial(0)/m/n/10 Compatibilidad multiplatafor-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 382--383
-[]|\TU/Arial(0)/m/n/10 PCI-DSS, DORA, normativas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 383--384
-[]|\TU/Arial(0)/m/n/10 Arquitecturas heterogéneas
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
-[]|\TU/Arial(0)/m/n/10 Criticidad operacional –
- []
-
-
-Underfull \hbox (badness 4242) in paragraph at lines 385--385
-[]|\TU/Arial(0)/m/n/10 Gobernanza regulatoria del
- []
-
-
-Overfull \hbox (4.7022pt too wide) in paragraph at lines 372--390
- [][] 
- []
-
-LaTeX Info: Redefining \. on input line 410.
-LaTeX Info: Redefining \% on input line 410.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[38]
-LaTeX Info: Redefining \. on input line 410.
-LaTeX Info: Redefining \% on input line 410.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[39]
-LaTeX Info: Redefining \. on input line 410.
-LaTeX Info: Redefining \% on input line 410.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
-[]|\TU/Arial(0)/m/n/10 Análisis de
- []
-
-
-Underfull \hbox (badness 6842) in paragraph at lines 428--429
-\TU/Arial(0)/m/n/10 Requisitos Insti-
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 430--431
-[]|\TU/Arial(0)/m/n/10 Documento de requisitos;
- []
-
-
-Underfull \hbox (badness 5008) in paragraph at lines 432--433
-[]|\TU/Arial(0)/m/n/10 Evaluación Téc-
- []
-
-
-Underfull \hbox (badness 1102) in paragraph at lines 434--435
-[]|\TU/Arial(0)/m/n/10 Scorecard técnico compa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
-[]|\TU/Arial(0)/m/n/10 Evaluación Re-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
-\TU/Arial(0)/m/n/10 gulatoria y de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 436--437
-\TU/Arial(0)/m/n/10 Gobernanza de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 440--441
-[]|\TU/Arial(0)/m/n/10 Decisión Final
- []
-
-
-Underfull \hbox (badness 4765) in paragraph at lines 441--442
-[]|\TU/Arial(0)/m/n/10 Consolidación de evaluaciones
- []
-
-LaTeX Info: Redefining \. on input line 462.
-LaTeX Info: Redefining \% on input line 462.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[41])
-LaTeX Info: Redefining \. on input line 63.
-LaTeX Info: Redefining \% on input line 63.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[42]
-\openout2 = `2_CAPITULO4/capitulo4.aux'.
-
- (2_CAPITULO4/capitulo4.tex
-Capítulo IV.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 51.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00075pt on input line 51.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 51.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 51.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[43
-
-
-
-
-]
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[44]
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
-[]|\TU/Arial(0)/m/n/10 Peso
- []
-
-
-Underfull \hbox (badness 2680) in paragraph at lines 105--105
-[]|\TU/Arial(0)/m/n/10 Compatibilidad multiplatafor-
- []
-
-
-Underfull \hbox (badness 4242) in paragraph at lines 109--109
-[]|\TU/Arial(0)/m/n/10 Gobernanza regulatoria del
- []
-
-LaTeX Info: Redefining \. on input line 141.
-LaTeX Info: Redefining \% on input line 141.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[45]
-Package pgfplots info on input line 176: Using 'lua backend=false' for axis: x 
-coord trafo unsupported.
-Package pgfplots info on input line 197: Using 'lua backend=false' for axis: x 
-coord trafo unsupported.
-LaTeX Info: Redefining \. on input line 216.
-LaTeX Info: Redefining \% on input line 216.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[46]
-Package pgfplots info on input line 277: Using 'lua backend=false' for axis: x 
-coord trafo unsupported.
+(Font)              scaled to size 5.47441pt on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.665> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.475> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
 )
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -3300,293 +2151,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
 
-[47]
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[48]
-LaTeX Info: Redefining \. on input line 66.
-LaTeX Info: Redefining \% on input line 66.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[49]
-\openout2 = `3_1_CONCLUSIONES/conclusiones.aux'.
-
- (3_1_CONCLUSIONES/conclusiones.tex
-LaTeX Info: Redefining \. on input line 55.
-LaTeX Info: Redefining \% on input line 55.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[50
-
-
-
-
-
-]
-LaTeX Info: Redefining \. on input line 111.
-LaTeX Info: Redefining \% on input line 111.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[51])
-LaTeX Info: Redefining \. on input line 74.
-LaTeX Info: Redefining \% on input line 74.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[52]
-\openout2 = `3_2_RECOMENDACIONES/recomendaciones.aux'.
-
- (3_2_RECOMENDACIONES/recomendaciones.tex
-LaTeX Info: Redefining \. on input line 59.
-LaTeX Info: Redefining \% on input line 59.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[53
-
-
-
-
-])
-LaTeX Info: Redefining \. on input line 77.
-LaTeX Info: Redefining \% on input line 77.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[54]
-\openout2 = `3_3_BIBLIOGRAFIA/bibliografia.aux'.
-
- (3_3_BIBLIOGRAFIA/bibliografia.tex
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[55
-
-
-
-
-]
-Underfull \hbox (badness 2443) in paragraph at lines 16--17
-[]\TU/Arial(0)/m/n/10.95 Clark, G., y McDonald, S. (2022). WebAssembly and the 
-future of high-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-[]\TU/Arial(0)/m/n/10.95 Deloitte. (2022). \TU/Arial(0)/m/it/10.95 Global finan
-cial services industry outlook\TU/Arial(0)/m/n/10.95 . Descarga-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
-\TU/Arial(0)/m/n/10.95 do de [][]$[][][][][] [][][] [][][][] [] [][][][][][][][
-][] [] [][][][] [] [][][][][][] [] [][] [] [][][][][][][][] [] [][][][][][][][]
- []
- []
-
-
-Underfull \hbox (badness 2065) in paragraph at lines 26--27
-[]\TU/Arial(0)/m/n/10.95 Devographics. (2024). \TU/Arial(0)/m/it/10.95 State of
- JavaScript 2024\TU/Arial(0)/m/n/10.95 . Descargado de [][]$[][][][][] [][][]
- []
-
-LaTeX Info: Redefining \. on input line 35.
-LaTeX Info: Redefining \% on input line 35.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[56
-
-])
-LaTeX Info: Redefining \. on input line 80.
-LaTeX Info: Redefining \% on input line 80.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[57]
-\openout2 = `3_4_ANEXOS/anexos.aux'.
-
- (3_4_ANEXOS/anexos.tex
-Underfull \hbox (badness 7030) in paragraph at lines 39--39
-[]|\TU/Arial(0)/m/n/10 Seguridad intrín-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|\TU/Arial(0)/m/n/10 Rendimiento de
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
-[]|\TU/Arial(0)/m/n/10 Compatibilidad
- []
-
-
-Overfull \hbox (8.29239pt too wide) in paragraph at lines 35--47
- [] 
- []
-
-LaTeX Info: Redefining \. on input line 47.
-LaTeX Info: Redefining \% on input line 47.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[58
-
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[]|\TU/Arial(0)/m/n/10 Cumplimiento
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
-[]|\TU/Arial(0)/m/n/10 Integración le-
- []
-
-
-Overfull \hbox (8.29239pt too wide) in paragraph at lines 53--63
- [] 
- []
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 79--79
-[]|\TU/Arial(0)/m/n/10.95 Frameworks de interfaz de
- []
-
-LaTeX Info: Redefining \. on input line 84.
-LaTeX Info: Redefining \% on input line 84.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[59]
-LaTeX Info: Redefining \. on input line 161.
-LaTeX Info: Redefining \% on input line 161.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[60]
-LaTeX Info: Redefining \. on input line 197.
-LaTeX Info: Redefining \% on input line 197.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[61])
-LaTeX Info: Redefining \. on input line 83.
-LaTeX Info: Redefining \% on input line 83.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 24.83238pt, for example:
-(fancyhdr)                \setlength{\headheight}{24.83238pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-12.83238pt}.
-
-[62] (TESIS_UNI_main.aux (1_0_CARATULA/caratula.aux)
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
- (1_1_PERMISOS/permisos.aux) (1_2_DEDICATORIA/dedicatoria.aux) (1_3_AGRADECIMIE
-NTOS/agradecimientos.aux)
-(1_4_RESUMEN/resumen.aux) (1_5_ABSTRACT/abstract.aux
-LaTeX Info: Redefining \. on input line 5.
-LaTeX Info: Redefining \% on input line 5.
-) (1_6_PROLOGO/prologo.aux) (1_7_SIMBOLOS/simbolos.aux) (2_CAPITULO1/capitulo1.
-aux)
-(2_CAPITULO2/capitulo2.aux) (2_CAPITULO3/capitulo3.aux)
-(2_CAPITULO4/capitulo4.aux) (3_1_CONCLUSIONES/conclusiones.aux)
-(3_2_RECOMENDACIONES/recomendaciones.aux) (3_3_BIBLIOGRAFIA/bibliografia.aux)
-(3_4_ANEXOS/anexos.aux))
+[6
+
+] (TESIS_UNI_main.aux
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `TESIS_UNI_main.out' has not changed.
-(rerunfilecheck)             Checksum: A7A79F8615F6977ABFE15382FE874D67;23002.
+(rerunfilecheck)             Checksum: 02FA605F821D0EC0E2726B918CBA40AB;781.
  ) 
 Here is how much of TeX's memory you used:
- 46620 strings out of 402987
- 1052818 string characters out of 5448110
- 1852703 words of memory out of 5000000
- 74532 multiletter control sequences out of 15000+600000
- 653610 words of font info for 163 fonts, out of 8000000 for 9000
+ 45351 strings out of 402987
+ 1016200 string characters out of 5448110
+ 1818021 words of memory out of 5000000
+ 73389 multiletter control sequences out of 15000+600000
+ 644730 words of font info for 123 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 91i,17n,107p,769b,2407s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 91i,13n,107p,769b,728s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on TESIS_UNI_main.xdv (79 pages, 1741948 bytes).
+Output written on TESIS_UNI_main.xdv (7 pages, 113432 bytes).

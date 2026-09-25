@@ -1,101 +1,37 @@
-\chapter{MARCO TEÓRICO Y REFERENCIAL}
+\chapter*{JUSTIFICACIÓN DETALLADA E HIPÓTESIS}
+\addcontentsline{toc}{chapter}{JUSTIFICACIÓN DETALLADA E HIPÓTESIS}
+\chaptermark{JUSTIFICACIÓN E HIPÓTESIS}
 
-\section{ANTECEDENTES DE LA INVESTIGACIÓN}
+\section*{1. Justificación e Importancia}
 
-Los estudios comparativos de frameworks de interfaz de usuario (Banks y
-Porcello, 2023; Brown, 2023) documentan diferencias de arquitectura,
-rendimiento y ecosistema entre Angular, React y Vue.js en aplicaciones
-empresariales, sin abordar las restricciones propias de sectores regulados
-como el bancario.
+\textbf{Justificación Práctica y Tecnológica:} Proporciona a los equipos de
+desarrollo y arquitectos de software un marco de control cuantitativo para
+visibilizar y medir el costo real de mantenimiento, la complejidad oculta y
+la vulnerabilidad del código generado por IAG en aplicaciones del sector
+asegurador.
 
-Las investigaciones sobre selección tecnológica en instituciones financieras
-(Arner et al., 2017; Chen et al., 2021) evidencian que el cumplimiento
-normativo y la gobernanza con múltiples stakeholders condicionan las
-decisiones tecnológicas del sector, aunque no proponen instrumentos de
-evaluación comparativa de frameworks de interfaz.
+\textbf{Justificación Académica y Científica:} Cubre un vacío en la
+literatura mediante la formulación matemática del Índice de Deuda Técnica
+Generativa (IDTG) y la categorización de una nueva taxonomía de antipatrones
+producidos por LLMs.
 
-Las metodologías genéricas de evaluación de software y de decisión
-multicriterio aplicadas a la selección tecnológica (Kumar y Sharma, 2020)
-constituyen la base metodológica más cercana a este trabajo; sin embargo,
-omiten los requisitos regulatorios bancarios y los criterios emergentes
-asociados a la IA generativa, brecha que la presente tesis busca cerrar.
+\section*{2. Formulación de Hipótesis}
 
-Finalmente, la evidencia reciente sobre generación de código asistida por IA
-(Peng et al., 2023; Stack Overflow, 2024) muestra su adopción masiva y su
-efecto sobre la productividad y la calidad del código, lo que motiva
-incorporar la calidad del código generado y la gobernanza del uso de IA como
-criterios de evaluación. En la tesis, estos antecedentes se ampliarán y
-sistematizarán con detalle.
+\textbf{Hipótesis General ($H_1$):} El desarrollo de aplicaciones
+empresariales en Seguros y Reaseguros con uso intensivo de IAG incrementa de
+forma estadísticamente significativa la Deuda Técnica Acumulada
+($TDR \ge 35\%$) y reduce el Maintainability Index ($MI \le 20$), en
+comparación con el desarrollo tradicional.
 
-\section{BASES TEÓRICAS}
+\textbf{Hipótesis Específica 1 ($H_{1.1}$):} El código en módulos de
+tarificación desarrollado con IAG presenta una Complejidad Ciclomática y
+Cognitiva $v(G) > 10$ en más del 40\% de sus funciones.
 
-Se enuncian brevemente las bases teóricas sobre las que se construirá la
-metodología; su desarrollo extenso corresponderá al marco teórico de la tesis.
+\textbf{Hipótesis Específica 2 ($H_{1.2}$):} Los componentes de Reaseguros
+presentan un incremento de al menos 25\% en duplicación de código y un alto
+acoplamiento ($CBO \ge 15$).
 
-\subsection{Tecnologías de interfaz de usuario y frameworks front-end}
-
-La evolución de las interfaces bancarias, desde terminales de texto hasta
-experiencias digitales omnicanal (Dapp, 2014; King, 2018), ha consolidado a
-Angular, React y Vue.js como las principales alternativas empresariales, con
-paradigmas distintos: framework completo, biblioteca de vistas y framework
-progresivo, respectivamente. En la tesis se analizarán sus arquitecturas,
-modelos de renderizado, ecosistemas y características distintivas en el
-contexto bancario.
-
-\subsection{Modelos y criterios de evaluación tecnológica}
-
-Los modelos de calidad de producto software, las técnicas de evaluación
-arquitectónica y los enfoques multicriterio ofrecen una base genérica para
-comparar tecnologías; no obstante, resultan insuficientes para el sector
-financiero al no contemplar sus exigencias regulatorias (Kumar y Sharma,
-2020). La tesis adaptará y extenderá estos modelos con criterios técnicos y
-regulatorios específicos del sector.
-
-\subsection{Regulaciones y cumplimiento en el sector bancario}
-
-La regulación de servicios financieros digitales, la protección de datos y la
-resiliencia operativa (PCI-DSS, DORA y normativas SBS y locales; Arner et al.,
-2017) imponen requisitos que condicionan la selección de tecnologías de
-interfaz. En la tesis se sistematizarán los requisitos aplicables y su
-traducción a criterios evaluables.
-
-\subsection{Procesos decisionales y gobernanza tecnológica}
-
-Las decisiones tecnológicas bancarias involucran comités y stakeholders de
-arquitectura, seguridad y cumplimiento (Chen et al., 2021); la fragmentación
-de criterios entre estas áreas produce decisiones subóptimas. La tesis
-propondrá un proceso estructurado de toma de decisiones con roles y flujos
-definidos.
-
-\subsection{Teoría de decisiones multicriterio}
-
-El Proceso Analítico Jerárquico (AHP) descompone un problema decisional en una
-jerarquía de criterios y deriva pesos mediante comparaciones pareadas
-(Triantaphyllou, 2000); se complementa con métodos de ordenamiento como
-TOPSIS y PROMETHEE. La tesis empleará AHP para ponderar los criterios de
-evaluación técnicos y regulatorios.
-
-\subsection{Tendencias emergentes e IA generativa}
-
-Los micro-frontends, WebAssembly y la personalización basada en IA configuran
-la evolución reciente de las interfaces; a ello se suma la generación de
-código asistida por IA, que reduce las diferencias de ecosistema y talento
-entre frameworks (Peng et al., 2023). La tesis analizará el efecto moderador
-de estas herramientas sobre la ponderación de los criterios de selección.
-
-\section{MARCO CONCEPTUAL}
-
-Se precisan los conceptos básicos de referencia, que serán desarrollados con
-amplitud en la tesis.
-
-\textbf{Tecnologías de interfaz de usuario:} conjunto de componentes,
-herramientas y estándares con los que una aplicación presenta información y
-captura las interacciones del usuario en sus distintos canales.
-
-\textbf{Frameworks de interfaz de usuario:} conjuntos estructurados de
-librerías, convenciones y herramientas que estandarizan la construcción de
-interfaces; en este estudio, Angular, React y Vue.js.
-
-\textbf{Tecnologías complementarias:} elementos que acompañan al framework en
-aplicaciones empresariales: gestión de estado, enrutamiento, renderizado del
-lado del servidor, sistemas de diseño y herramientas de prueba.
+\textbf{Hipótesis Específica 3 ($H_{1.3}$):} El tiempo de resolución de
+cambios ($TTR\text{-}CR$) y corrección de errores ($TTFB$) en reglas
+aseguradoras desarrolladas con IAG es un 30\% mayor debido a la baja cohesión
+y legibilidad.

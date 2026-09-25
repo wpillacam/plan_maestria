@@ -1,85 +1,28 @@
-
+% ============================================================
+% PLAN DE TESIS DE MAESTRÍA — Modelo de evaluación y
+% cuantificación de deuda técnica acumulada por el uso de
+% inteligencia artificial generativa en el desarrollo de
+% aplicaciones empresariales: caso de estudio en el sector de
+% seguros y reaseguros
+% Willian José Pillaca Meneses — UNI Escuela de Posgrado
+% ============================================================
 \documentclass[11pt,a4paper,oneside,english,spanish]{TesisUNI}
 
 \input{0_0_PREAMBULO/preambulo}
 
 \begin{document}
-	
-	\renewcommand{\BOthers}[1]{et al.\hbox{}} %Agregar et al.
-	\onehalfspacing 	% Interlineado 1.5
-	\noindent			% Sin sangría
-		
-	%Parte INCIAL DE LA TESIS
-	
-	\frontmatter 
-		
-	\include{1_0_CARATULA/caratula}
-	
-	\include{1_1_PERMISOS/permisos}
 
-	\include{1_2_DEDICATORIA/dedicatoria}
-	
-	\include{1_3_AGRADECIMIENTOS/agradecimientos}
-	
-	
-	%Cambiar nombre y crear ÍNDICE
-	\singlespacing 
-	\renewcommand\contentsname{\centering ÍNDICE }
-	\tableofcontents	
-	\onehalfspacing
+\renewcommand{\BOthers}[1]{et al.\hbox{}} %Agregar et al.
+\onehalfspacing 	% Interlineado 1.5
+\noindent			% Sin sangría
 
-	\include{1_4_RESUMEN/resumen}
-		
-	\include{1_5_ABSTRACT/abstract}
+% ---------- Preliminares ----------
+\input{1_0_CARATULA/caratula}
+\input{1_4_RESUMEN/resumen}                    % RESUMEN EJECUTIVO
 
-	\include{1_6_PROLOGO/prologo} 
-	
-	
-	%Cambiar nombre, crear ÍNDICE DE FIGURAS Y TABLAS
-	
-	\renewcommand\listfigurename{\centering LISTA DE FIGURAS}
-	\renewcommand\listtablename{\centering LISTA DE TABLAS}
+% ---------- Cuerpo del plan ----------
+\input{2_CAPITULO1/capitulo1}                  % MATRIZ DE CONSISTENCIA
+\input{1_8_INDICE_PROPUESTO/indice_propuesto}  % ESQUEMA DEL ÍNDICE GENERAL
+\input{2_CAPITULO2/capitulo2}                  % JUSTIFICACIÓN DETALLADA E HIPÓTESIS
 
-	\cleardoublepage\phantomsection\addcontentsline{toc}{chapter}{\listtablename}
-	{\normalsize\listoftables}
-		
-	\cleardoublepage\phantomsection\addcontentsline{toc}{chapter}{\listfigurename}
-	{\normalsize\listoffigures}
-	
-	\include{1_7_SIMBOLOS/simbolos}
- 
- 
-	%Parte CENTRAL DE LA TESIS
-	
-	\mainmatter 
-
-	% INTRODUCCIÓN
-	\include{2_CAPITULO1/capitulo1}
-	
-	% FUNDAMENTO TEÓRICO Y CONCEPTUAL
-	\include{2_CAPITULO2/capitulo2}	
-		
-	% CAPÍTULO 3
-	\include{2_CAPITULO3/capitulo3}
-		
-	% CAPÍTULO 4
-	\include{2_CAPITULO4/capitulo4}
-		
-	
-	%Parte FINAL DE LA TESIS
-	
-	\backmatter
-
-	% CONCLUSIONES
-	\include{3_1_CONCLUSIONES/conclusiones}
-	
-	% RECOMENDACIONES	
-	\include{3_2_RECOMENDACIONES/recomendaciones}
-	
-	% REFERENCIAS BIBLIOGRÁFICAS
-	\include{3_3_BIBLIOGRAFIA/bibliografia}
-	
-	% ANEXOS	
-	\include{3_4_ANEXOS/anexos}
-	
 \end{document}

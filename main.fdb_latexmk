@@ -1,20 +1,16 @@
 # Fdb version 4
-["xdvipdfmx"] 1790131054.41775 "main.xdv" "main.pdf" "main" 1790131055.34765 0
-  "main.xdv" 1790131053.18308 697136 5929e69d6491778de41032d9cbed6898 "xelatex"
+["xdvipdfmx"] 1790290777.82454 "main.xdv" "main.pdf" "main" 1790290778.60963 0
+  "main.xdv" 1790290776.68384 113432 689a73d6d056138bd26e307f2e4ce062 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1790131048.59819 "main.tex" "main.xdv" "main" 1790131055.28436 0
-  "0_0_PREAMBULO/preambulo.tex" 1790129652.95715 9161 6e3c43f4faad1f8c2ffda7cc3955630b ""
-  "1_0_CARATULA/caratula.tex" 1790052983.88697 853 7f763259c6961253e63e64b4d62ccf68 ""
-  "1_4_RESUMEN/resumen.tex" 1790053743.18618 3829 034d9a8617769e572a51c5c96bfabaec ""
-  "1_8_INDICE_PROPUESTO/indice_propuesto.tex" 1790053745.32471 1716 ced2558e4f3fba1d53eab89149641374 ""
-  "2_CAPITULO1/capitulo1.tex" 1790131028.24305 34685 c69317b345490adc88aad90bb1af26f7 ""
-  "2_CAPITULO2/capitulo2.tex" 1790054622.79813 5097 a1e62a0813de5881949eabe9b2a4d1f6 ""
-  "2_CAPITULO3/capitulo3.tex" 1790052848.65608 4749 82009c30b280320fa73096eed6d2d903 ""
-  "2_CAPITULO4/capitulo4.tex" 1790054624.99919 4907 1a9baa181be748f2680a4f892c84c8d4 ""
-  "3_1_CONCLUSIONES/conclusiones.tex" 1790057228.41994 6734 75d28996dd4db98929fb87333cc44880 ""
-  "3_3_BIBLIOGRAFIA/bibliografia.tex" 1790056557.84909 6132 e862d582e3fdd50ebf681fbe86ded414 ""
+["xelatex"] 1790290771.9981 "main.tex" "main.xdv" "main" 1790290778.5401 0
+  "0_0_PREAMBULO/preambulo.tex" 1790290167.56995 9419 f1fa3fe6da0c400495fa7d6f305bb2bf ""
+  "1_0_CARATULA/caratula.tex" 1790290169.65247 1073 5d280f58ddc6aa6cd4b1b6c68ce09b2e ""
+  "1_4_RESUMEN/resumen.tex" 1790289623.29389 1289 5de3c71cafbf33da280e5e8633ba2da7 ""
+  "1_8_INDICE_PROPUESTO/indice_propuesto.tex" 1790289928.52931 2788 a1d1110b2aafe47aad5c0f36927dbfa4 ""
+  "2_CAPITULO1/capitulo1.tex" 1790290721.66077 5939 4b6c7678d8f0ecaf953db5289c181986 ""
+  "2_CAPITULO2/capitulo2.tex" 1790289957.72704 1770 749f2eac1ed5903f288fa9577ae97acc ""
   "C:/Users/LarkBox/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1790009499.16248 27177500 de9d51850a3da79b8f89ac63435055b0 ""
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmb7t.tfm" 1136790254 2172 fd0c924230362ff848a33632ed45dc23 ""
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmri7t.tfm" 1136790254 2288 f478fc8fed18759effb59f3dad7f3084 ""
@@ -172,6 +168,7 @@
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/carlisle/scalefnt.sty" 1522607821 1360 df2086bf924b14b72d6121fe9502fcdb ""
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/changepage/changepage.sty" 1256021817 4523 a9044e2dc40e764dac60d2acda7ae919 ""
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/enumitem/enumitem.sty" 1738917170 52272 63d293bc0d496619edb57585740861a2 ""
+  "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/eso-pic/eso-pic.sty" 1780839705 12026 69122f61f5f226a39624c40c33a6cfa5 ""
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty" 1759409308 46885 8953c67ffba03252c6090aa19568b8ba ""
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/fancyhdr/fancyhdr.sty" 1740138435 31715 19e60610b63819fe670dfa1cd84a4e94 ""
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/fontspec/fontspec-xetex.sty" 1759156201 164714 a0cc5579dc5aec4384653d8dd1b3832a ""
@@ -243,9 +240,9 @@
   "C:/Users/LarkBox/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "E_IMAGENES/0_Caratula/UNI_LOGO1.pdf" 1790029999.1132 350341 8f927ef5d8361c40c209fc9bf3bdc7d3 ""
   "TesisUNI.cls" 1790029999.00842 26600 8c2a9bfac78523efcffe5db9c10aa8de ""
-  "main.aux" 1790131053.15572 11644 536f1f059b8db922e551323ca93fbd39 "xelatex"
-  "main.out" 1790131053.17125 9695 80b9efc94b7a112d2e01c05ad92863f6 "xelatex"
-  "main.tex" 1790053228.91814 1024 83e599e7ee0684343fe78ce1d7df643b ""
+  "main.aux" 1790290776.67092 1186 dcd7c1a35d9d440987d6fd74a76f0cb4 "xelatex"
+  "main.out" 1790290776.67702 781 02fa605f821d0ec0e2726b918cba40ab "xelatex"
+  "main.tex" 1790290028.87622 1109 167af8a61f0a98c6a6962ca3dc6b9a6c ""
   (generated)
   "main.aux"
   "main.log"
